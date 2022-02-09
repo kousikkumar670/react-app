@@ -1,0 +1,32 @@
+{
+    "transaction_details": [
+      {
+        "id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "transaction_amount": 150,
+        "transaction_date":"02-02-2022"
+      },
+      {
+        "id": 2,
+        "first_name": "Bob",
+        "last_name": "Doe",
+        "transaction_amount":200 ,
+        "transaction_date":"01-02-2022"
+      },
+      {
+        "id": 3,
+        "first_name": "Alice",
+        "last_name": "Doe",
+        "transaction_amount":60 ,
+        "transaction_date":"12-02-2021"
+      },
+      {
+        "id": 4,
+        "first_name": "Steve",
+        "last_name": "Doe",
+        "transaction_amount":10 ,
+        "transaction_date":"12-10-2021"
+      }
+    ]
+  }

@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+table {
+  border: 2px solid forestgreen;
+  width: 800px;
+  height: 200px;
+}
+  
+th{
+  border-bottom: 2px solid forestgreen;
+
+}
+  
+td {
+  text-align: center;
+}
